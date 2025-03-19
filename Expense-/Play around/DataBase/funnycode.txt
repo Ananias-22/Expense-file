@@ -1,0 +1,4 @@
+1. Category: gg, Amount: 66.0, Date: 2025-03-19
+
+2. Category: tt, Amount: 2.0, Date: 2025-03-19
+
